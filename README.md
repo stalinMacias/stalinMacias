@@ -18,9 +18,7 @@
 ### Contact:
 <div> 
 <!--   <a href = "https://wa.me/523418866648"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:stalin.macias.eth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/stalin-macias-eth/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  - 📫 How to reach me. You can send me a DM on my twitter account: https://x.com/Stalin_eth
   
   ![Snake animation](https://github.com/stalinMacias/stalinMacias/blob/output/github-contribution-grid-snake.svg)
  
@@ -31,7 +29,6 @@
 - Since the last year and a half I´ve been going down the rabbit hole of the blockchain technology, from top to bottom, understanding it from the philosophical and economical perspective up to the technical details and how it works under the hood.
 - I’m convinced blockchain is the next big thing in the Internet space, and I´ve been doing my best efforts to transition my professional career into this space, I´d love to be one of the builders of the next version of the internet.
 - 💞️ I’m eager to collaborate on blockchain projects
-- 📫 How to reach me. You can send me a DM on my twitter account: https://x.com/Stalin_eth
 
 <!---
 stalinMacias/stalinMacias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
