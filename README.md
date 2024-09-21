@@ -31,7 +31,7 @@
 - Since the last year and a half I´ve been going down the rabbit hole of the blockchain technology, from top to bottom, understanding it from the philosophical and economical perspective up to the technical details and how it works under the hood.
 - I’m convinced blockchain is the next big thing in the Internet space, and I´ve been doing my best efforts to transition my professional career into this space, I´d love to be one of the builders of the next version of the internet.
 - 💞️ I’m eager to collaborate on blockchain projects
-- 📫 How to reach me. You can send me an email to: stalin.macias.eth@gmail.com
+- 📫 How to reach me. You can send me a DM on my twitter account: https://x.com/Stalin_eth
 
 <!---
 stalinMacias/stalinMacias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
